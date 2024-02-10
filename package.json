@@ -1,0 +1,11 @@
+{
+  "name": "magic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "pdf-merger-js": "^4.3.0",
+    "shelljs": "^0.8.5"
+  }
+}
